@@ -3,10 +3,8 @@
     "Resources": {
         "S3Bucket": {
             "Type": "AWS::S3::Bucket"
-        },
-        "S3Bucket": {
-            "Type": "AWS::S3::Bucket"
         }
+
     },
     "Outputs": {
         "BucketName": {
