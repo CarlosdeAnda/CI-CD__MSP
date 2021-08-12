@@ -10,7 +10,7 @@
             "Value": {
                 "Ref": "S3Bucket"
             },
-            "Description": ":)"
+            "Description": "Cloudformation para MSP"
         }
     }
 }
